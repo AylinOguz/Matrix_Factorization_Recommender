@@ -13,7 +13,7 @@ This project demonstrates a **model-based collaborative filtering** approach to 
    - Filter and sample movies for demonstration.
    - Format the data for Surprise library: columns (userId, movieId, rating).
 
-.### Train/Test Split
+  ### Train/Test Split
    - Split the data into training (75%) and testing (25%) sets.
 
   ### Model Training
