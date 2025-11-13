@@ -1,7 +1,7 @@
 
 
 # Movie Recommendation System using Matrix Factorization
-
+![image](https://github.com/AylinOguz/Matrix_Factorization_Recommender/blob/main/matrix_factorization.png?raw=true)
 ## Project Overview
 This project demonstrates a **model-based collaborative filtering** approach to recommend movies using **matrix factorization (SVD)** on the MovieLens dataset. The goal is to predict user ratings for movies they haven't watched yet and suggest movies they may like.
 
