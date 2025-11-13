@@ -9,7 +9,7 @@ This project demonstrates a **model-based collaborative filtering** approach to 
 
 ## Project Workflow
  ### Data Preparation 
-   - Merge movie.csv and rating.csv
+   - Merge  movie.csv and  rating.csv
    - Filter and sample movies for demonstration
    - Format the data for Surprise library: columns (userId, movieId, rating)
 
